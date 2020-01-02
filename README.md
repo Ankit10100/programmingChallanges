@@ -1,2 +1,3 @@
-Solutions to problems of Programming Challenges book by Steven Skiena.
+Solutions to problems of Programming Challenges book by Steven Skiena. In format.
+
 
